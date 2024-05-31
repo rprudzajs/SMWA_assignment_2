@@ -1,9 +1,0 @@
-.Rproj.user/*
-*.log
-*.pdf
-renv/*
-.Rproj.user
-.Rhistory
-data/*
-*cache*
-.vscode
